@@ -1,7 +1,24 @@
 # silzow
 <!DOCTYPE html>
 <html lang="en">
+<head>  
+    <html>
 <head>
+  <title>Home Button Example</title>
+</head>
+<body>
+
+  <!-- Home Button -->
+  <button onclick="goHome()">Home</button>
+
+  <script>
+    function goHome() {
+      window.location.href = "home.html"; // Change to your actual home page URL
+    }
+  </script>
+
+</body>
+</html>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Silzow - Leading Innovation in Technology and Design</title>
