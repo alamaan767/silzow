@@ -19,6 +19,117 @@
 
 </body>
 </html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home - Oil & Gas Company</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f6f8;
+            color: #333;
+        }
+
+        header {
+            background-color: #002f4b;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        nav a:hover {
+            text-decoration: underline;
+        }
+
+        .hero {
+            background-color: #e0eaf0;
+            padding: 40px 20px;
+            text-align: center;
+        }
+
+        .hero h2 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+
+        .hero p {
+            font-size: 18px;
+            max-width: 600px;
+            margin: 0 auto;
+        }
+
+        .about {
+            padding: 30px 20px;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+
+        .about h2 {
+            font-size: 28px;
+            color: #002f4b;
+        }
+
+        .about p {
+            font-size: 16px;
+            line-height: 1.6;
+        }
+
+        footer {
+            background-color: #002f4b;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 40px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Welcome to EnergyCore Solutions</h1>
+        <nav>
+            <a href="home.html">Home</a>
+            <a href="about.html">About Us</a>
+            <a href="services.html">Services</a>
+            <a href="contact.html">Contact</a>
+        </nav>
+    </header>
+
+    <main>
+        <section class="hero">
+            <h2>Leading Innovation in Oil & Gas</h2>
+            <p>Your trusted partner in energy exploration, production, and sustainability.</p>
+        </section>
+
+        <section class="about">
+            <h2>About Us</h2>
+            <p>
+                At EnergyCore Solutions, we specialize in delivering world-class services to the oil and gas sector.
+                With over 20 years of experience, our expertise spans upstream, midstream, and downstream operations.
+            </p>
+            <p>
+                We are committed to safety, efficiency, and environmental responsibility while helping our clients
+                maximize performance and minimize risk.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 EnergyCore Solutions. All rights reserved.</p>
+    </footer>
+</body>
+</html>
+
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Silzow - Leading Innovation in Technology and Design</title>
